@@ -6,7 +6,7 @@ A production-style, network-isolated 3-tier web application architecture deploye
 
 ## Architecture Overview
 
-![3-Tier Architecture on Azure](./architecture.png)
+![3-Tier Architecture on Azure](./docs/architecture.png)
 
 The application is split into logical tiers across an Azure Virtual Network (`10.0.0.0/16`):
 
